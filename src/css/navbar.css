@@ -1,0 +1,18 @@
+.nav-bar{
+    display: flex;
+    background-color: black;
+    color:white;
+    padding: 2rem;
+    justify-content: space-evenly;
+}
+.nav-bar a{
+    text-decoration: none;
+    color: inherit;
+}
+.nav-menu{
+    font-size: 1.2rem;
+}
+.nav-menu :hover{
+    background-color: rgb(199, 193, 193);
+    padding: 1.8rem;
+}
